@@ -1,0 +1,1 @@
+# CINE_APP_FLUTTER_CLEANarquitecture
