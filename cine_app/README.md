@@ -1,3 +1,5 @@
 # cine_app
+# Monky
 
-A new Flutter project.
+1. copiar el archivo .env.template y renombrarlo a .env
+2. Cambiar las variables de entorno 
